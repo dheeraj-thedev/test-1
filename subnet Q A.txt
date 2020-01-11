@@ -1,0 +1,29 @@
+VLSM Q for Subnetting
+
+A-class
+
+125.0.0.0/8
+site 1 has 2000 users
+site 2 has 1000 users
+site 3 has 550 users
+site 4 has 250 users 
+
+B-class
+180.10.0.0/16
+
+site 1 has 1000 users
+site 2 has 500 users
+site 3 has 250 users
+site 4 has 125 users 
+
+
+C-class
+192.168.10.0/24
+
+site 1 has 100 users
+site 2 has 50 users
+site 3 has 25 users
+site 4 has 12 users 
+
+
+
